@@ -67,7 +67,6 @@ CodeAlpha_TranslationTool/
 │
 ├── backend/
 │   ├── backend.py
-│   └── translatex.db
 │
 ├── frontend/
 │   ├── public/
